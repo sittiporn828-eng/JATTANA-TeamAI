@@ -1,0 +1,23 @@
+version: 2
+votes:
+  system-design-26-payment-system:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-12T14:52:42.115Z
+  system-design-22-hotel-reservation-system:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-12T14:52:42.115Z
+  system-design-27-digital-wallet:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-12T14:52:42.115Z
+  system-design-project-applicability:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-12T14:52:42.115Z
+  system-design-19-distributed-message-queue:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-12T14:52:42.115Z
+deltas: {}

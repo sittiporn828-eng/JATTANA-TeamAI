@@ -20,4 +20,16 @@ votes:
     recalled_count: 2
     upvoted_count: 0
     last_recalled_at: 2026-09-12T15:03:05.388Z
+  system-design-01-scaling:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-12T15:27:36.919Z
+  system-design-08-url-shortener:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-12T15:27:36.919Z
+  system-design-11-news-feed-system:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-12T15:27:36.919Z
 deltas: {}

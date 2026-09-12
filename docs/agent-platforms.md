@@ -35,7 +35,7 @@ Official docs:
 - Memory/instructions: https://code.claude.com/docs/en/memory
 - Hooks: https://code.claude.com/docs/en/hooks
 
-Claude Code is not installed on this machine at the time of this update; keep these instructions current when it is installed.
+Verified local CLI: `claude 2.1.269` (authenticated and `claude doctor` passed).
 
 - Claude reads `CLAUDE.md`, not `AGENTS.md` directly. To share rules without duplication, create a small `CLAUDE.md` containing `@AGENTS.md` plus Claude-specific additions.
 - Keep project instructions concise; official guidance recommends targeting under 200 lines per file.

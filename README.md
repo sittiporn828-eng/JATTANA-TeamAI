@@ -4,7 +4,7 @@ Shared TeamAI harness for JATTANA GROUP AI agents.
 
 ## Contents
 
-- `docs/system-design/` — shared system design knowledge and 28 reference chapters
+- `docs/system-design-*.md` — shared system design knowledge and 28 reference chapters
 - `teamai.yaml` — TeamAI configuration
 - `learnings/` — durable team learnings created through reviewed workflow
 

@@ -32,4 +32,68 @@ votes:
     recalled_count: 1
     upvoted_count: 0
     last_recalled_at: 2026-09-12T15:27:36.919Z
+  analytics:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:24:42.533Z
+  system-design-28-stock-exchange:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:25:34.446Z
+  system-design-24-s3-like-object-storage:
+    recalled_count: 3
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:25:34.446Z
+  system-design-13-search-autocomplete:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:24:42.533Z
+  system-design-21-ad-click-event-aggregation:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:24:42.533Z
+  test-driven-development:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:25:18.753Z
+  agent-platforms:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:25:18.753Z
+  system-design-index:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:25:18.753Z
+  system-design-09-web-crawler:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:25:34.446Z
+  serial-bug-fix-closure:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:25:34.446Z
+  system-design-23-distributed-email-service:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:25:34.446Z
+  react-supabase-bug-audit:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:26:18.021Z
+  jattana-agent-workflow:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:26:18.021Z
+  production-regression-audit:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:26:18.021Z
+  github-pr-workflow:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:26:18.021Z
+  seo-audit:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-13T07:26:18.021Z
 deltas: {}

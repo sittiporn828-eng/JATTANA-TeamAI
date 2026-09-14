@@ -1,17 +1,17 @@
 version: 2
 votes:
   system-design-26-payment-system:
-    recalled_count: 2
+    recalled_count: 4
     upvoted_count: 0
-    last_recalled_at: 2026-09-12T15:03:05.388Z
+    last_recalled_at: 2026-09-14T06:22:42.040Z
   system-design-22-hotel-reservation-system:
     recalled_count: 2
     upvoted_count: 0
     last_recalled_at: 2026-09-12T15:03:05.388Z
   system-design-27-digital-wallet:
-    recalled_count: 2
+    recalled_count: 3
     upvoted_count: 0
-    last_recalled_at: 2026-09-12T15:03:05.388Z
+    last_recalled_at: 2026-09-14T10:28:07.279Z
   system-design-project-applicability:
     recalled_count: 2
     upvoted_count: 0
@@ -37,9 +37,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-13T07:24:42.533Z
   system-design-28-stock-exchange:
-    recalled_count: 2
+    recalled_count: 3
     upvoted_count: 0
-    last_recalled_at: 2026-09-13T07:25:34.446Z
+    last_recalled_at: 2026-09-14T10:28:07.279Z
   system-design-24-s3-like-object-storage:
     recalled_count: 3
     upvoted_count: 0
@@ -53,9 +53,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-13T07:24:42.533Z
   test-driven-development:
-    recalled_count: 1
+    recalled_count: 2
     upvoted_count: 0
-    last_recalled_at: 2026-09-13T07:25:18.753Z
+    last_recalled_at: 2026-09-14T04:52:59.294Z
   agent-platforms:
     recalled_count: 1
     upvoted_count: 0
@@ -69,17 +69,17 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-13T07:25:34.446Z
   serial-bug-fix-closure:
-    recalled_count: 1
+    recalled_count: 2
     upvoted_count: 0
-    last_recalled_at: 2026-09-13T07:25:34.446Z
+    last_recalled_at: 2026-09-14T06:24:15.674Z
   system-design-23-distributed-email-service:
     recalled_count: 1
     upvoted_count: 0
     last_recalled_at: 2026-09-13T07:25:34.446Z
   react-supabase-bug-audit:
-    recalled_count: 1
+    recalled_count: 3
     upvoted_count: 0
-    last_recalled_at: 2026-09-13T07:26:18.021Z
+    last_recalled_at: 2026-09-14T07:06:39.622Z
   jattana-agent-workflow:
     recalled_count: 1
     upvoted_count: 0
@@ -101,9 +101,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T02:53:38.760Z
   full-stack-flow-closure:
-    recalled_count: 1
+    recalled_count: 6
     upvoted_count: 0
-    last_recalled_at: 2026-09-14T02:53:38.760Z
+    last_recalled_at: 2026-09-14T07:06:39.622Z
   system-design-20-metrics-monitoring-and-alerting-system:
     recalled_count: 1
     upvoted_count: 0
@@ -116,4 +116,116 @@ votes:
     recalled_count: 1
     upvoted_count: 0
     last_recalled_at: 2026-09-14T02:53:38.760Z
+  github-issue-to-pr:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T07:46:53.766Z
+  timezone-aware-data-audit:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T03:29:31.689Z
+  landing-page-conversion-audit:
+    recalled_count: 3
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T06:24:15.674Z
+  supabase-app-engineering:
+    recalled_count: 3
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T07:06:39.622Z
+  production-hardening-review:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T04:16:34.322Z
+  supabase-ops:
+    recalled_count: 3
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T07:06:39.622Z
+  marketing-plan:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T04:16:34.322Z
+  plan:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T04:16:34.322Z
+  e2e-encrypted-local-first:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T04:37:06.389Z
+  system-design-15-google-drive:
+    recalled_count: 3
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T07:46:53.766Z
+  backup-verification:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T04:37:06.389Z
+  system-design-12-chat-system:
+    recalled_count: 5
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T09:58:23.877Z
+  system-design-25-real-time-gaming-leaderboard:
+    recalled_count: 4
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T09:58:23.877Z
+  system-design-04-rate-limiter:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T05:15:34.911Z
+  portable-skill-selection:
+    recalled_count: 3
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T06:27:13.074Z
+  system-design-17-nearby-friends:
+    recalled_count: 5
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T07:46:53.766Z
+  railway-deploy-ops:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T09:58:23.877Z
+  system-design-06-key-value-store:
+    recalled_count: 3
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T09:58:23.877Z
+  open-code-review:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T06:27:13.074Z
+  open-code-review-delegate:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T06:27:13.074Z
+  document-to-action-items:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T07:46:53.766Z
+  system-design-02-back-of-the-envelope-estimation:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T07:46:53.766Z
+  game-ui-polish:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T09:30:34.596Z
+  improve-ui:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T09:30:34.596Z
+  baseline-ui:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T09:30:34.596Z
+  ui-skills-root:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T09:30:34.596Z
+  popular-web-designs:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T09:30:34.596Z
+  system-design-18-google-maps:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T09:58:23.877Z
 deltas: {}

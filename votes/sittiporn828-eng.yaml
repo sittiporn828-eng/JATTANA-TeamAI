@@ -165,9 +165,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T09:58:23.877Z
   system-design-25-real-time-gaming-leaderboard:
-    recalled_count: 4
+    recalled_count: 5
     upvoted_count: 0
-    last_recalled_at: 2026-09-14T09:58:23.877Z
+    last_recalled_at: 2026-09-14T13:20:14.047Z
   system-design-04-rate-limiter:
     recalled_count: 1
     upvoted_count: 0
@@ -177,9 +177,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T06:27:13.074Z
   system-design-17-nearby-friends:
-    recalled_count: 5
+    recalled_count: 6
     upvoted_count: 0
-    last_recalled_at: 2026-09-14T07:46:53.766Z
+    last_recalled_at: 2026-09-14T13:20:14.047Z
   railway-deploy-ops:
     recalled_count: 2
     upvoted_count: 0
@@ -225,7 +225,15 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T09:30:34.596Z
   system-design-18-google-maps:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T13:20:14.047Z
+  system-design-knowledge-curation:
     recalled_count: 1
     upvoted_count: 0
-    last_recalled_at: 2026-09-14T09:58:23.877Z
+    last_recalled_at: 2026-09-14T13:20:14.047Z
+  system-design-05-consistent-hashing:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T13:20:14.047Z
 deltas: {}

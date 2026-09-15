@@ -77,9 +77,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-13T07:25:34.446Z
   react-supabase-bug-audit:
-    recalled_count: 3
+    recalled_count: 4
     upvoted_count: 0
-    last_recalled_at: 2026-09-14T07:06:39.622Z
+    last_recalled_at: 2026-09-14T17:17:55.867Z
   jattana-agent-workflow:
     recalled_count: 1
     upvoted_count: 0
@@ -161,13 +161,13 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T04:37:06.389Z
   system-design-12-chat-system:
-    recalled_count: 5
+    recalled_count: 13
     upvoted_count: 0
-    last_recalled_at: 2026-09-14T09:58:23.877Z
+    last_recalled_at: 2026-09-14T15:44:25.796Z
   system-design-25-real-time-gaming-leaderboard:
-    recalled_count: 5
+    recalled_count: 14
     upvoted_count: 0
-    last_recalled_at: 2026-09-14T13:20:14.047Z
+    last_recalled_at: 2026-09-14T17:17:55.867Z
   system-design-04-rate-limiter:
     recalled_count: 1
     upvoted_count: 0
@@ -177,9 +177,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T06:27:13.074Z
   system-design-17-nearby-friends:
-    recalled_count: 6
+    recalled_count: 15
     upvoted_count: 0
-    last_recalled_at: 2026-09-14T13:20:14.047Z
+    last_recalled_at: 2026-09-14T17:17:55.867Z
   railway-deploy-ops:
     recalled_count: 2
     upvoted_count: 0
@@ -236,4 +236,36 @@ votes:
     recalled_count: 1
     upvoted_count: 0
     last_recalled_at: 2026-09-14T13:20:14.047Z
+  system-design-03-system-design-framework:
+    recalled_count: 6
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T15:20:33.530Z
+  system-design-07-unique-id-generator:
+    recalled_count: 4
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T15:22:16.257Z
+  system-design-14-youtube:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T14:15:02.681Z
+  system-design-source:
+    recalled_count: 3
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T15:44:25.796Z
+  pick-ui-library:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T15:22:16.257Z
+  ci-reliability-debugging:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T15:44:25.796Z
+  github-issues:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T17:17:55.867Z
+  github-code-review:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-14T17:17:55.867Z
 deltas: {}

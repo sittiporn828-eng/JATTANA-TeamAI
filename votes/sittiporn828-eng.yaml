@@ -105,9 +105,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-15T01:48:06.691Z
   system-design-20-metrics-monitoring-and-alerting-system:
-    recalled_count: 8
+    recalled_count: 9
     upvoted_count: 0
-    last_recalled_at: 2026-09-29T03:04:19.643Z
+    last_recalled_at: 2026-09-29T03:34:22.651Z
   system-design-16-proximity-service:
     recalled_count: 1
     upvoted_count: 0
@@ -161,13 +161,13 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T04:37:06.389Z
   system-design-12-chat-system:
-    recalled_count: 29
+    recalled_count: 30
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T13:15:49.064Z
+    last_recalled_at: 2026-09-29T03:34:22.651Z
   system-design-25-real-time-gaming-leaderboard:
-    recalled_count: 31
+    recalled_count: 32
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T13:15:49.064Z
+    last_recalled_at: 2026-09-29T03:34:22.651Z
   system-design-04-rate-limiter:
     recalled_count: 1
     upvoted_count: 0
@@ -177,9 +177,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T06:27:13.074Z
   system-design-17-nearby-friends:
-    recalled_count: 36
+    recalled_count: 37
     upvoted_count: 0
-    last_recalled_at: 2026-09-29T03:04:19.643Z
+    last_recalled_at: 2026-09-29T03:34:22.651Z
   railway-deploy-ops:
     recalled_count: 6
     upvoted_count: 0
@@ -237,9 +237,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T13:20:14.047Z
   system-design-03-system-design-framework:
-    recalled_count: 13
+    recalled_count: 14
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T13:15:49.064Z
+    last_recalled_at: 2026-09-29T03:34:22.651Z
   system-design-07-unique-id-generator:
     recalled_count: 4
     upvoted_count: 0

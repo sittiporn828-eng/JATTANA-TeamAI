@@ -5,17 +5,17 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-29T03:04:19.643Z
   system-design-22-hotel-reservation-system:
-    recalled_count: 2
+    recalled_count: 3
     upvoted_count: 0
-    last_recalled_at: 2026-09-12T15:03:05.388Z
+    last_recalled_at: 2026-09-29T11:25:13.559Z
   system-design-27-digital-wallet:
     recalled_count: 3
     upvoted_count: 0
     last_recalled_at: 2026-09-14T10:28:07.279Z
   system-design-project-applicability:
-    recalled_count: 6
+    recalled_count: 7
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T13:01:28.069Z
+    last_recalled_at: 2026-09-29T11:25:13.559Z
   system-design-19-distributed-message-queue:
     recalled_count: 2
     upvoted_count: 0
@@ -77,17 +77,17 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-13T07:25:34.446Z
   react-supabase-bug-audit:
-    recalled_count: 7
+    recalled_count: 10
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T12:30:14.361Z
+    last_recalled_at: 2026-09-29T12:36:06.857Z
   jattana-agent-workflow:
     recalled_count: 2
     upvoted_count: 0
     last_recalled_at: 2026-09-15T03:34:01.868Z
   production-regression-audit:
-    recalled_count: 3
+    recalled_count: 4
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T06:11:32.193Z
+    last_recalled_at: 2026-09-29T11:54:56.169Z
   github-pr-workflow:
     recalled_count: 2
     upvoted_count: 0
@@ -105,9 +105,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-15T01:48:06.691Z
   system-design-20-metrics-monitoring-and-alerting-system:
-    recalled_count: 9
+    recalled_count: 11
     upvoted_count: 0
-    last_recalled_at: 2026-09-29T03:34:22.651Z
+    last_recalled_at: 2026-09-29T11:54:56.169Z
   system-design-16-proximity-service:
     recalled_count: 1
     upvoted_count: 0
@@ -125,21 +125,21 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T03:29:31.689Z
   landing-page-conversion-audit:
+    recalled_count: 10
+    upvoted_count: 0
+    last_recalled_at: 2026-09-29T12:05:57.956Z
+  supabase-app-engineering:
     recalled_count: 7
     upvoted_count: 0
-    last_recalled_at: 2026-09-29T03:04:19.643Z
-  supabase-app-engineering:
-    recalled_count: 6
-    upvoted_count: 0
-    last_recalled_at: 2026-09-15T12:30:14.361Z
+    last_recalled_at: 2026-09-29T12:36:06.857Z
   production-hardening-review:
     recalled_count: 1
     upvoted_count: 0
     last_recalled_at: 2026-09-14T04:16:34.322Z
   supabase-ops:
-    recalled_count: 6
+    recalled_count: 7
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T12:30:14.361Z
+    last_recalled_at: 2026-09-29T12:36:06.857Z
   marketing-plan:
     recalled_count: 1
     upvoted_count: 0
@@ -161,29 +161,29 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T04:37:06.389Z
   system-design-12-chat-system:
-    recalled_count: 30
-    upvoted_count: 0
-    last_recalled_at: 2026-09-29T03:34:22.651Z
-  system-design-25-real-time-gaming-leaderboard:
     recalled_count: 32
     upvoted_count: 0
-    last_recalled_at: 2026-09-29T03:34:22.651Z
+    last_recalled_at: 2026-09-29T12:05:57.956Z
+  system-design-25-real-time-gaming-leaderboard:
+    recalled_count: 35
+    upvoted_count: 0
+    last_recalled_at: 2026-09-29T12:36:06.857Z
   system-design-04-rate-limiter:
     recalled_count: 1
     upvoted_count: 0
     last_recalled_at: 2026-09-14T05:15:34.911Z
   portable-skill-selection:
-    recalled_count: 3
+    recalled_count: 4
     upvoted_count: 0
-    last_recalled_at: 2026-09-14T06:27:13.074Z
+    last_recalled_at: 2026-09-29T11:25:13.559Z
   system-design-17-nearby-friends:
-    recalled_count: 37
+    recalled_count: 41
     upvoted_count: 0
-    last_recalled_at: 2026-09-29T03:34:22.651Z
+    last_recalled_at: 2026-09-29T14:21:27.263Z
   railway-deploy-ops:
-    recalled_count: 6
+    recalled_count: 7
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T13:01:28.069Z
+    last_recalled_at: 2026-09-29T12:36:06.857Z
   system-design-06-key-value-store:
     recalled_count: 5
     upvoted_count: 0
@@ -304,4 +304,20 @@ votes:
     recalled_count: 1
     upvoted_count: 0
     last_recalled_at: 2026-09-15T12:30:14.361Z
+  prd-acceptance-review:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-29T14:21:27.263Z
+  markup-from-image:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-29T14:21:27.263Z
+  review-animations:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-29T14:21:27.263Z
+  add-dark-mode:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-29T14:21:27.263Z
 deltas: {}

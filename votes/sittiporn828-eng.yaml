@@ -1,9 +1,9 @@
 version: 2
 votes:
   system-design-26-payment-system:
-    recalled_count: 4
+    recalled_count: 5
     upvoted_count: 0
-    last_recalled_at: 2026-09-14T06:22:42.040Z
+    last_recalled_at: 2026-09-29T03:04:19.643Z
   system-design-22-hotel-reservation-system:
     recalled_count: 2
     upvoted_count: 0
@@ -105,9 +105,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-15T01:48:06.691Z
   system-design-20-metrics-monitoring-and-alerting-system:
-    recalled_count: 7
+    recalled_count: 8
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T13:15:49.064Z
+    last_recalled_at: 2026-09-29T03:04:19.643Z
   system-design-16-proximity-service:
     recalled_count: 1
     upvoted_count: 0
@@ -125,9 +125,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T03:29:31.689Z
   landing-page-conversion-audit:
-    recalled_count: 6
+    recalled_count: 7
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T07:10:39.966Z
+    last_recalled_at: 2026-09-29T03:04:19.643Z
   supabase-app-engineering:
     recalled_count: 6
     upvoted_count: 0
@@ -177,17 +177,17 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-14T06:27:13.074Z
   system-design-17-nearby-friends:
-    recalled_count: 35
+    recalled_count: 36
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T13:15:49.064Z
+    last_recalled_at: 2026-09-29T03:04:19.643Z
   railway-deploy-ops:
     recalled_count: 6
     upvoted_count: 0
     last_recalled_at: 2026-09-15T13:01:28.069Z
   system-design-06-key-value-store:
-    recalled_count: 4
+    recalled_count: 5
     upvoted_count: 0
-    last_recalled_at: 2026-09-15T02:45:42.725Z
+    last_recalled_at: 2026-09-29T03:04:19.643Z
   open-code-review:
     recalled_count: 1
     upvoted_count: 0

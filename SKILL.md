@@ -1,6 +1,6 @@
 ---
 name: jattana-teamai
-description: Complete JATTANA TeamAI knowledge base, engineering methodology (Ponytail), platform rules, and 85 specialist skills catalog for full-stack engineering, AI automation, UI/UX, and ops.
+description: Complete JATTANA TeamAI knowledge base, engineering methodology (Ponytail), platform rules, and 106 specialist skills catalog for full-stack engineering, AI automation, UI/UX, and ops.
 ---
 
 # JATTANA TeamAI — Master Skill
@@ -31,7 +31,7 @@ This master skill consolidates the entire JATTANA GROUP engineering standards, m
 4. Runnable checks: Leave one runnable check (an assert or minimal test) for non-trivial logic.
 5. Output format: Shortest diff, shortest explanation.
 
-## 3. TeamAI 85-Skill Catalog & Routing Directory
+## 3. TeamAI 106-Skill Catalog & Routing Directory
 
 ### analytics
 - Description: "Set up, improve, or audit analytics tracking: GA4, GTM, UTM."
@@ -61,9 +61,17 @@ This master skill consolidates the entire JATTANA GROUP engineering standards, m
 - Description: "Use when verifying backups: checksums, gzip/tar integrity."
 - File Path: skills/backup-verification/SKILL.md
 
+### banner-design
+- Description: Design banners for social media, ads, website heroes, and print with multiple art-direction options.
+- File Path: skills/banner-design/SKILL.md
+
 ### baseline-ui
 - Description: Quickly deslop UI code by fixing spacing, hierarchy, typography, and small layout issues. Use when the interface needs a fast cleanup or polish pass.
 - File Path: skills/baseline-ui/SKILL.md
+
+### brand
+- Description: Brand voice, visual identity, messaging frameworks, asset management, and brand consistency.
+- File Path: skills/brand/SKILL.md
 
 ### browser-game-performance-profiling
 - Description: "Measure and fix real browser-game frame performance."
@@ -100,6 +108,14 @@ This master skill consolidates the entire JATTANA GROUP engineering standards, m
 ### customer-research
 - Description: "Conduct and analyze customer research: ICP, personas, JTBD, reviews."
 - File Path: skills/customer-research/SKILL.md
+
+### design
+- Description: Brand identity, design tokens, logo/icon/CIP generation, HTML presentations, and banners.
+- File Path: skills/design/SKILL.md
+
+### design-system
+- Description: Three-layer token architecture (primitive→semantic→component), component specs, and token-driven slides.
+- File Path: skills/design-system/SKILL.md
 
 ### diagram-design
 - Description: Create branded architecture, IT current-state, flowchart, sequence, state machine, ER/data model, timeline, swimlane, quadrant, radar/spider, polar chart (polar/radial lollipop), loop/flywheel, nested, tree, org chart, layer stack, Venn, pyramid/funnel, treemap, bar, waterfall, line, Gantt and scatter charts, high-level, process, medallion, data flow, DP integration, DP security matrix, Sankey, fishbone, Wardley map, kanban, user journey, deployment, dependency graph, UML class, story map, or database schema diagrams as standalone HTML/SVG/PNG. Redraw .drawio/.drawio.png/.drawio.svg, Mermaid .mmd, or Excalidraw .excalidraw sources at a chosen size/detail; onboard brand tokens from a website; add semantic patterns, callouts, accessible motion, or sketchy/hand-drawn styling.
@@ -189,9 +205,21 @@ This master skill consolidates the entire JATTANA GROUP engineering standards, m
 - Description: "Ground answers and documents in cited, verifiable sources."
 - File Path: skills/grounded-citations/SKILL.md
 
+### hallmark
+- Description: Anti-AI-slop design skill for greenfield pages, audits, redesigns, and design extraction from URLs or screenshots.
+- File Path: skills/hallmark/SKILL.md
+
 ### huggingface-hub
 - Description: "HuggingFace hf CLI: search/download/upload models, datasets."
 - File Path: skills/huggingface-hub/SKILL.md
+
+### humanizer
+- Description: Rewrite AI-sounding text so it reads like a person wrote it, without changing what it says (Wikipedia 'Signs of AI writing').
+- File Path: skills/humanizer/SKILL.md
+
+### impeccable
+- Description: Design, critique, audit, polish, harden, or animate frontend interfaces (web, dashboards, forms, native iOS/Android screens).
+- File Path: skills/impeccable/SKILL.md
 
 ### improve-animations
 - Description: Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and self-contained implementation plans for other agents (or cheaper models) to execute. Read-only on source code — it plans improvements, it does not apply them. Use when the user asks to "improve the animations", "audit the motion", "make this app feel better", or wants a roadmap of animation fixes rather than a review of a single diff.
@@ -221,6 +249,10 @@ This master skill consolidates the entire JATTANA GROUP engineering standards, m
 - Description: "Use when closing multiple PRD phases with one final commit."
 - File Path: skills/multi-phase-prd-hardening/SKILL.md
 
+### office-hours
+- Description: YC Office Hours diagnostic & brainstorming: forcing questions on demand reality, status quo, narrowest wedge.
+- File Path: skills/office-hours/SKILL.md
+
 ### online-game-server-networking
 - Description: "Use for authoritative multiplayer WebSocket servers."
 - File Path: skills/online-game-server-networking/SKILL.md
@@ -244,6 +276,38 @@ This master skill consolidates the entire JATTANA GROUP engineering standards, m
 ### plan
 - Description: Write a markdown plan to .hermes/plans/; no execution.
 - File Path: skills/plan/SKILL.md
+
+### plan-ceo-review
+- Description: CEO/founder-mode plan review: 10-star product thinking, premise challenge, scope expansion/reduction.
+- File Path: skills/plan-ceo-review/SKILL.md
+
+### plan-eng-review
+- Description: Eng manager-mode architecture review: scale limits, failure modes, data consistency, and test matrix.
+- File Path: skills/plan-eng-review/SKILL.md
+
+### ponytail
+- Description: Lazy senior dev mode: smallest change that fully solves the task (YAGNI, stdlib first). Levels: lite, full, ultra.
+- File Path: skills/ponytail/SKILL.md
+
+### ponytail-audit
+- Description: Whole-repo quality audit: bugs, security, load, untested risk, slow paths, and what to delete. Read-only report.
+- File Path: skills/ponytail-audit/SKILL.md
+
+### ponytail-debt
+- Description: List every `shortcut:` / `ponytail:` comment as a debt ledger. Read-only report.
+- File Path: skills/ponytail-debt/SKILL.md
+
+### ponytail-gain
+- Description: Show ponytail's measured savings (code, cost, speed) from the benchmark.
+- File Path: skills/ponytail-gain/SKILL.md
+
+### ponytail-help
+- Description: Quick reference for ponytail levels, skills, and commands.
+- File Path: skills/ponytail-help/SKILL.md
+
+### ponytail-review
+- Description: Quality review of a change: correctness, safety, load, tests, speed, and whether every line is needed.
+- File Path: skills/ponytail-review/SKILL.md
 
 ### popular-web-designs
 - Description: 54 real design systems (Stripe, Linear, Vercel) as HTML/CSS.
@@ -289,6 +353,10 @@ This master skill consolidates the entire JATTANA GROUP engineering standards, m
 - Description: Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy. Default to flagging; approval is earned.
 - File Path: skills/review-animations/SKILL.md
 
+### scrapling-official
+- Description: Scrape/crawl websites with Scrapling: anti-bot bypass, stealth headless browsing, spiders, adaptive parsing.
+- File Path: skills/scrapling-official/SKILL.md
+
 ### seo-audit
 - Description: "Audit SEO: technical, on-page, rankings, Core Web Vitals, indexing."
 - File Path: skills/seo-audit/SKILL.md
@@ -300,6 +368,14 @@ This master skill consolidates the entire JATTANA GROUP engineering standards, m
 ### sketch
 - Description: "Throwaway HTML mockups: 2-3 design variants to compare."
 - File Path: skills/sketch/SKILL.md
+
+### slides
+- Description: Strategic HTML presentations with Chart.js, design tokens, and copywriting formulas.
+- File Path: skills/slides/SKILL.md
+
+### spec
+- Description: 5-phase spec hardening: turn vague intent into battle-tested, implementation-ready issue/ticket.
+- File Path: skills/spec/SKILL.md
 
 ### spike
 - Description: "Throwaway experiments to validate an idea before build."
@@ -341,6 +417,14 @@ This master skill consolidates the entire JATTANA GROUP engineering standards, m
 - Description: Use before UI-related work to select the smallest useful UI Skills context through the ui-skills CLI.
 - File Path: skills/ui-skills-root/SKILL.md
 
+### ui-styling
+- Description: Accessible UIs with shadcn/ui, Tailwind CSS, and canvas-based visual designs.
+- File Path: skills/ui-styling/SKILL.md
+
+### ui-ux-pro-max
+- Description: UI/UX design intelligence: searchable styles, palettes, font pairings, charts, and stack-specific UI guidance.
+- File Path: skills/ui-ux-pro-max/SKILL.md
+
 ### understand-chat
 - Description: Use when you need to ask questions about a codebase or understand code using a knowledge graph
 - File Path: skills/understand-chat/SKILL.md
@@ -372,4 +456,3 @@ This master skill consolidates the entire JATTANA GROUP engineering standards, m
 ### xlsx
 - Description: Create, read, edit Excel .xlsx workbooks and CSVs.
 - File Path: skills/xlsx/SKILL.md
-

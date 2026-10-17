@@ -1,5 +1,5 @@
 username: sittiporn828-eng
-updatedAt: 2026-10-04T03:35:54.997Z
+updatedAt: 2026-10-17T01:51:43.523Z
 skills:
   artifact-design:
     count: 1
@@ -10,6 +10,24 @@ skills:
   goal:
     count: 1
     lastUsed: 2026-09-23T07:41:20.415Z
+  anthropic-skills:built-in-browser:
+    count: 5
+    lastUsed: 2026-10-16T04:21:45.645Z
+  react-supabase-bug-audit:
+    count: 1
+    lastUsed: 2026-10-08T01:04:46.559Z
+  meekamrai-wt-retail:meekamrai-page-audit:
+    count: 1
+    lastUsed: 2026-10-15T03:03:18.352Z
+  meekamrai-wt-retail:meekamrai-costing:
+    count: 1
+    lastUsed: 2026-10-15T03:03:22.552Z
+  reverse-engineer-anything:
+    count: 1
+    lastUsed: 2026-10-15T03:55:14.278Z
+  claude-api:
+    count: 1
+    lastUsed: 2026-10-16T10:04:36.795Z
 interventions:
   sessions: 36
   interrupt: 3

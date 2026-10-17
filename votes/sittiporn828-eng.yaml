@@ -61,9 +61,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-10-03T05:03:26.053Z
   system-design-index:
-    recalled_count: 1
+    recalled_count: 2
     upvoted_count: 0
-    last_recalled_at: 2026-09-13T07:25:18.753Z
+    last_recalled_at: 2026-10-17T01:50:10.333Z
   system-design-09-web-crawler:
     recalled_count: 2
     upvoted_count: 0
@@ -110,9 +110,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-10-03T14:41:37.998Z
   system-design-16-proximity-service:
-    recalled_count: 2
+    recalled_count: 3
     upvoted_count: 0
-    last_recalled_at: 2026-10-02T16:56:53.698Z
+    last_recalled_at: 2026-10-17T01:50:10.333Z
   system-design-10-notification-system:
     recalled_count: 2
     upvoted_count: 0

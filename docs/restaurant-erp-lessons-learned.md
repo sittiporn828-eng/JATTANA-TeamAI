@@ -4,8 +4,10 @@
 (React + TypeScript + Postgres/Supabase + serverless functions) โดยตัดชื่อตาราง ชื่อฟังก์ชัน
 รหัสโปรเจกต์ และตัวเลขทางธุรกิจออกแล้ว ใช้เป็นเช็กลิสต์ตอนออกแบบหรือรีวิวระบบแนวเดียวกัน
 
-Keywords: costing, pricing, migration, release checklist, Postgres, RLS, idempotency, AI scan, LLM gateway,
-audit, backup, rollback, Thai text, restaurant, retail, POS
+Keywords (ไทย/English): ต้นทุน cost costing, ราคา กำไร margin pricing, ปล่อยระบบ ขึ้นระบบจริง release deploy, ย้ายฐานข้อมูล migration,
+สำรองข้อมูล backup rollback, สิทธิ์ความปลอดภัย RLS security Postgres Supabase, บันทึกซ้ำ idempotency request id,
+สแกนบิล AI scan, ผู้ช่วย AI LLM gateway OpenRouter Gemini, ตรวจสอบโค้ด code review audit, ร้านอาหาร restaurant, ค้าปลีก retail POS,
+ข้อความไทย Thai text Unicode, Cloudflare traffic 504, ปัญหาซ้ำ lessons learned checklist
 
 ## 1. ต้นทุน กำไร ราคา (costing & margin)
 - คิดต้นทุน VAT GP margin ที่ฟังก์ชันกลางที่เดียว ห้ามหน้าไหนคิดเอง
